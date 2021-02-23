@@ -1,0 +1,33 @@
+{
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.shellArgs.windows": [
+        "-ExecutionPolicy",
+        "Bypass"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.formatOnSave": true,
+    "task.problemMatchers.neverPrompt": null,
+    "git.autofetch": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+    "[typescript]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+	},
+    "editor.insertSpaces": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "react-native.packager.port": 19002,
+}
