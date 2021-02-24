@@ -30,4 +30,6 @@
     "editor.insertSpaces": false,
     "javascript.updateImportsOnFileMove.enabled": "always",
     "react-native.packager.port": 19002,
+    "window.zoomLevel": 0,
+    "liveshare.authenticationProvider": "GitHub"
 }
