@@ -46,7 +46,7 @@
         "when": "editorHasDocumentFormattingProvider && editorTextFocus && !editorReadonly && !inCompositeEditor"
     },
     {
-        "key": "home r",
+        "key": "insert r",
         "command": "vscodetodo.refresh"
     }
 ]
